@@ -1,4 +1,18 @@
+*{
+    box-sizing: border-box;
+}
 
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+}
 .button{
     background-color: transparent;
     background-repeat: no-repeat;
